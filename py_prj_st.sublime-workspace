@@ -1,0 +1,284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 31,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Volumes/Vyas-HD/programming/mount_code/data_gen/gen_wiki_data/gen_wiki_hyp_train_data.lua",
+		"/Volumes/Vyas-HD/programming/mount_code/entities/relatedness/filter_wiki_canonical_words_RLTD.lua",
+		"/Volumes/Vyas-HD/programming/mount_code/entities/relatedness/relatedness.lua",
+		"/Volumes/Vyas-HD/programming/mount_code/data_gen/gen_wiki_data/gen_ent_wiki_w_repr.lua",
+		"/Volumes/Vyas-HD/programming/mount_code/error.log",
+		"/Volumes/Vyas-HD/programming/mount_code/data_gen/gen_p_e_m/gen_p_e_m_from_wiki.lua",
+		"/Volumes/Vyas-HD/programming/mount_code/data_gen/gen_p_e_m/merge_crosswikis_wiki.lua",
+		"/Volumes/Vyas-HD/programming/mount_code/entities/ent_name2id_freq/ent_name_id.lua",
+		"/Volumes/Vyas-HD/programming/mount_code/entities/relatedness/filter_wiki_hyperlink_contexts_RLTD.lua",
+		"/Volumes/Vyas-HD/programming/code/deep-ed/wiki_p_e_m",
+		"/Volumes/Vyas-HD/programming/code/deep-ed/entities/ent_name2id_freq/deep_ed.sublime-project",
+		"/Volumes/Vyas-HD/programming/code/deep-ed/data_gen/gen_p_e_m/merge_crosswikis_wiki.lua",
+		"/Volumes/Vyas-HD/programming/code/deep-ed/data_gen/gen_p_e_m/gen_p_e_m_from_wiki.lua",
+		"/Volumes/Vyas-HD/programming/code/pythonmiscwork/data/log.txt",
+		"/Users/vyas/.ssh/sdm_nodes",
+		"/Users/vyas/.ssh/sdm_nodes.pub",
+		"/Users/vyas/Downloads/tensorflow-2.1.build",
+		"/Users/vyas/Downloads/arch_old.build",
+		"/Users/vyas/Downloads/citation-228535803.bib",
+		"/opt/local/var/macports/sources/rsync.macports.org/macports/release/tarballs/base/vendor/tcllib-1.18/modules/nettool/scripts/build_services.tcl",
+		"/Volumes/Vyas-HD/programming/code/notebooks/class.py",
+		"/Users/vyas/Downloads/example.json",
+		"/Users/vyas/Downloads/download.csv",
+		"/Users/vyas/PycharmProjects/TestPython/test3.ipynb",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/script/pipelineUpdate.sh",
+		"/Users/vyas/Downloads/Hotmail-account.IAF",
+		"/Users/vyas/PycharmProjects/TestPython/1_notmnist.ipynb",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/script/qanarysetup.sh",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/Ex_Files_JETS/Exercise Files/Ch02/02_07/test.java",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/Ex_Files_JETS/Exercise Files/Ch02/02_07/CollegeCostsSolution.java",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/Ex_Files_JETS/Exercise Files/Ch02/02_05/OverloadingMethods.java",
+		"/Users/vyas/OfficeWork/aug-sep-work/coco-master/PythonAPI/intra_class_annotation_pairs.py",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/NLIWOD/qa.hawk/pom.xml",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/NLIWOD/pom.xml",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/NLIWOD/qa.annotation/src/main/java/org/aksw/qa/annotation/index/IndexDBO_classes.java",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/NLIWOD/qa.annotation/pom.xml",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/AskNow/src/main/resources/qald-6-train-multilingual.json",
+		"/Users/vyas/OfficeWork/aug-sep-work/coco-master/PythonAPI/intra_class_annotation_train.py",
+		"/Users/vyas/OfficeWork/aug-sep-work/coco-master/PythonAPI/intra_class_annotation.py",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/AskNow/src/main/resources/basic_server.py",
+		"/Users/vyas/Downloads/libstemmer_java/java/org/tartarus/snowball/ext/porterStemmer.java",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/testWrapper/TestWrapper.java",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/Qanary/pom.xml",
+		"/Volumes/Vyas-HD/office_fraunhofer/workspace/qanary_qa/.project",
+		"/Users/vyas/Library/Mobile Documents/com~apple~CloudDocs/Uni_Bonn/BigData/Ex7Sln/AggregateArtist.java",
+		"/Users/vyas/Library/Mobile Documents/com~apple~CloudDocs/Uni_Bonn/BigData/Ex7Sln/CountDistinctSketch.java",
+		"/Users/vyas/Library/Mobile Documents/com~apple~CloudDocs/Uni_Bonn/BigData/Ex7Sln/CountDistinctContainer.java",
+		"/Users/vyas/Library/Mobile Documents/com~apple~CloudDocs/Uni_Bonn/BigData/Ex7Sln/JaccardDistanceTopology.java",
+		"/Users/vyas/Library/Mobile Documents/com~apple~CloudDocs/Uni_Bonn/BigData/Ex7Sln/SplitRecord.java",
+		"/Users/vyas/Library/Mobile Documents/com~apple~CloudDocs/Uni_Bonn/BigData/Ex7Sln/ReadRecords.java",
+		"/Users/vyas/Desktop/scAlgoDisMatrix.py",
+		"/Users/vyas/workspace/RDF2Rule_E_TypeInfo/src/main/scala/net/sansa_stack/template/spark/rdf/GraphOps.scala",
+		"/Users/vyas/PycharmProjects/SingleLinkClustering/scAlgoDisMatrix.py",
+		"/Users/vyas/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/8B896CD5-8E98-44D6-9B46-24C463CFBA48/soln.py",
+		"/Users/vyas/PycharmProjects/JsonQueryParser/JsonQueryParser.py",
+		"/Users/vyas/OfficeWork/aug-sep-work/coco-master/PythonAPI/intra_class_annotation_old.py",
+		"/Users/vyas/Downloads/PythonAPI/intra_class_annotation.py",
+		"/Users/vyas/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/71FE77BC-6213-4989-A73C-86FCD11492A3/fptest.py",
+		"/Users/vyas/test",
+		"/Users/vyas/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/91D76FA2-E287-4DA2-843D-C7E3055A7F30/JsonQueryParser.py",
+		"/Users/vyas/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/528A1A09-0ED9-449B-A375-E91F55890E9A/JsonQueryParser.py",
+		"/Users/vyas/PycharmProjects/PA_OKBQA/pa_okbqadiscomp.py",
+		"/Users/vyas/PycharmProjects/JsonQueryParser/qald-6-train-multilingual.json",
+		"/Volumes/Vyas-HD/Share/Uni-Bonn/BigData/ProgAss/Rajats Big data files/Big_data_project/lecture/BdaMusicRecommender/src/de/fhg/iais/kd/hadoop/recommender/users/UserSet.java",
+		"/Volumes/Vyas-HD/Share/Uni-Bonn/BigData/ProgAss/Rajats Big data files/Big_data_project/lecture/BdaMusicRecommender/src/de/fhg/iais/kd/hadoop/recommender/users/BitSetUserSet.java",
+		"/Volumes/Vyas-HD/Share/Uni-Bonn/BigData/ProgAss/Rajats Big data files/recommender/BdaMusicRecommender/src/de/fhg/iais/kd/hadoop/recommender/users/UserSet.java",
+		"/Users/vyas/RDF2RuleSansa/src/main/scala/net/sansa_stack/template/spark/rdf/TripleUtils.scala",
+		"/Users/vyas/workspace/RDF2RuleSansa/pom.xml",
+		"/Users/vyas/Desktop/rdf.nt",
+		"/Users/vyas/workspace/SANSA-Template-Maven-Spark/README.md",
+		"/Volumes/Vyas-HD/Share/Uni-Bonn/DBigLab/training-scripts/README.md",
+		"/Volumes/Vyas-HD/Share/Uni-Bonn/DBigLab/training-scripts/amplab.pem",
+		"/Users/vyas/PycharmProjects/python-fp-growth-master/examples/tsk.csv",
+		"/Users/vyas/Downloads/lcm25/lcm_max.c",
+		"/Users/vyas/123.html",
+		"/Users/vyas/1.txt",
+		"/Users/vyas/Downloads/README.md",
+		"/Users/vyas/Downloads/pylabelme-master/canvas.py",
+		"/Users/vyas/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/8F269DF3-5026-448C-A58A-E45FD919C6E8/Test.py",
+		"/Users/vyas/PycharmProjects/Test/Test.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "py_prj_st.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
